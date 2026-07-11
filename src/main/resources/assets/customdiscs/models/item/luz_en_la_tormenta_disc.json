@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "customdiscs:item/luz_en_la_tormenta"
+  }
+}

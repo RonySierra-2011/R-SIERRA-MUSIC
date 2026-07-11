@@ -1,0 +1,20 @@
+{
+	"luz_en_la_tormenta": {
+		"subtitle": "item.customdiscs.luz_en_la_tormenta_disc.desc",
+		"sounds": [
+			{
+				"name": "customdiscs:luz_en_la_tormenta",
+				"stream": true
+			}
+		]
+	},
+	"me_das_vida": {
+		"subtitle": "item.customdiscs.me_das_vida_disc.desc",
+		"sounds": [
+			{
+				"name": "customdiscs:me_das_vida",
+				"stream": true
+			}
+		]
+	}
+}
